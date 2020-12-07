@@ -19,4 +19,18 @@ Se introdujo ES6
 
 Se implementó un virtualDom
 
-[logo]: https://github.com/DanCaldera/medical-hacking/blob/master/static/img/cap1.png 'Logo Title Text 2'
+[alt text](https://github.com/DanCaldera/medical-hacking/blob/master/static/img/cap1.png?raw=true 'Virtual DOM')
+
+## Pasos para crear una aplicación de React
+
+_Asegurate que tienes **node** instalado_
+
+```bash
+node --version
+```
+
+para iniciar un proyecto en terminal
+
+```bash
+npx create-react-app blog
+```
